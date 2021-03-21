@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    println!("Print temperature in Fahrenheit");
+    println!("Print temperature in Fahrenheit:");
 
     let mut temperature = String::new();
 
